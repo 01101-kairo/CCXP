@@ -12,21 +12,21 @@ header{
   background-color: #FFD900;
 }
 
-#texto{
+.texto{
   background-color: #514988;
   color: #FFFFFF;
   text-align: center;
   width: 802px;
 }
-#texto h2{
+.texto h2{
   font-size: 70px;
   margin: 20px;
 }
-#texto h3{
+.texto h3{
   font-size: 30px;
   margin: 20px 0px 40px ;
 }
-#texto p{
+.texto p{
   font-size: 25px;
   margin: 0px 0px 50px ;
 }
@@ -38,17 +38,17 @@ main h2{
   color: #FFD900;
 }
 
-#countDown{
+.countDown{
   display: flex;
 }
-#countDown p{
+.countDown p{
   color: #514988;
   font-size: 60px;
   font-weight: bolder;
   text-align: center;
   margin: 15px 15px 15px;
 }
-#terceiroTitulo{
+.terceiroTitulo{
   color: #E33881;
   font-size: 25px;
   text-align: center;
