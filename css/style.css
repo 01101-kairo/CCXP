@@ -30,11 +30,11 @@ header{
   font-size: 25px;
   margin: 0px 0px 50px ;
 }
-section{
+main{
   display: flex;
 }
 
-section h2{
+main h2{
   color: #FFD900;
 }
 
@@ -58,18 +58,18 @@ video{
   margin: 10px;
 }
 
-footer {
+section {
   display: flex;
 }
 
-footer h3{
+section h3{
   color: #F3C61F;
   text-align: center;
   font-size: 25px;
   margin: 10px 0px 10px;
 }
 
-footer div{
+section div{
   margin: 0px 30px 16px;
 }
 
