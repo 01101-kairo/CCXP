@@ -12,7 +12,7 @@ header{
   background-color: #FFD900;
 }
 
-.flex{
+.container{
   display: flex;
 }
 
@@ -20,7 +20,7 @@ header{
   background-color: #514988;
   color: #FFFFFF;
   text-align: center;
-  width: 802px;
+  width: 50%;
 }
 .texto h2{
   font-size: 70px;
@@ -37,6 +37,10 @@ header{
 
 main h2{
   color: #FFD900;
+}
+
+.countDown {
+  justify-content: center;
 }
 
 .countDown p{
