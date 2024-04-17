@@ -4,7 +4,7 @@ const minuto = document.querySelector('span#minutos')
 const segundo = document.querySelector('span#segundos')
 
 
-const lancamento = "17 oct 2024"
+const lancamento = "17 oct 2025"
 
 const countDown = () => {
   const dataDeLancamento = new Date(lancamento)
